@@ -5,3 +5,4 @@ Then open a pull request here.
 you can fork the repo and submit pull requests (PRs)
 Pulling Files from instructor Repository:
 Pulling means downloading the latest files/updates from “instructor” repo to your local machine. This involves cloning (first time) or pulling (subsequent updates).
+Save files as .md to upload (push) to this repository
